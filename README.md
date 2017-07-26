@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-HolstViewTool::Renderer.copyright 'Your Name', 'Your Message'
+HolstCopyrightTool::Renderer.copyright 'Your Name', 'Your Message'
 ```
 
 ## Development
