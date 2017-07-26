@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Copyright tool with autogenerating year and syntax.}
   spec.description   = %q{Customize and have your copyright section update automatically with each year change in your rails app. Provides the ability to attach a short message and insert website name to explicity state and render a copyright symbol along with it.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/endoglastic/HolstCopyrightTool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
