@@ -23,7 +23,7 @@ Or install it yourself as:
 ```ruby
 HolstCopyrightTool::Renderer.copyright 'Your Name', 'Your Message'
 ```
-This will also render, once implemented ,its own id of 'site-copyright' in its own &#60;p>&#62; tag for css usage and personalization.
+This will also render, once implemented ,its own id of 'site-copyright' in its own &#60;p&#62; tag for css usage and personalization.
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
